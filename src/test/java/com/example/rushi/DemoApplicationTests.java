@@ -8,6 +8,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// Test will fail if ApplicationContext cannot start properly
 	}
 
 }
